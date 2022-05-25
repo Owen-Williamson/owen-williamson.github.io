@@ -1,6 +1,3 @@
 console.log("Hello")
 
-
-alert("Hello")
-
 console.log("Hello")
